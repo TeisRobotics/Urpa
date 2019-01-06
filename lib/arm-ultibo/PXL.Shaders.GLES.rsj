@@ -1,0 +1,5 @@
+{"version":1,"strings":[
+{"hash":237719758,"name":"pxl.shaders.gles.sglescompileshader","sourcebytes":[70,97,105,108,101,100,32,99,111,109,112,105,108,105,110,103,32,115,104,97,100,101,114,32,91,37,115,93,46],"value":"Failed compiling shader [%s]."},
+{"hash":62479646,"name":"pxl.shaders.gles.sgleslinkshader","sourcebytes":[70,97,105,108,101,100,32,108,105,110,107,105,110,103,32,115,104,97,100,101,114,32,91,37,115,93,46],"value":"Failed linking shader [%s]."},
+{"hash":21191486,"name":"pxl.shaders.gles.sglesinvalidshader","sourcebytes":[84,104,101,32,115,112,101,99,105,102,105,101,100,32,115,104,97,100,101,114,32,105,115,32,105,110,118,97,108,105,100,46],"value":"The specified shader is invalid."}
+]}
